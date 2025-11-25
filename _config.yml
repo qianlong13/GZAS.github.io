@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "福州格致中学天文社"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Qianlong13"
 description              : &description "nothing"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://qianlong13.github.io/GZAS.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
@@ -26,12 +26,11 @@ author:
   avatar           : "https://wx4.sinaimg.cn/large/a5aaafc3gy1fu68ho8o9uj21hc123wh8.jpg"
   name             : "格致天文社"
   pronouns         : "天上格致星，地下格致人"# example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "“The GZ Star shines in the sky while the GZ people thrive on earth.”
   location         : "Fuzhou.China"
   employer         : "福州格致中学"
   uri              : # URL
-  email            : "cqr0822@qq.com" 
-
+  email            : # URL
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
@@ -54,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
