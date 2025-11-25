@@ -24,8 +24,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Qianlong13"
-  pronouns         : "。"# example: "she/her"  
+  name             : "格致天文社"
+  pronouns         : "天上格致星，地下格致人"# example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Fuzhou.China"
   employer         : "福州格致中学"
