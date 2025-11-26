@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "格致天文社官网"
 author_profile: true
 redirect_from: 
   - /about/
@@ -68,6 +68,4 @@ redirect_from:
 
 ## 近期活动
 
-**社团课观月活动**
-![技术指导向高一新生显示望远镜的使用↑](/imgs/2025-11-26/07YltMI8H2DpONTV.jpeg)
 
